@@ -1,0 +1,30 @@
+C:\Users\Amiepc\source\repos\TetrisWinForms\bin\Debug\TetrisWinForms.exe.config
+C:\Users\Amiepc\source\repos\TetrisWinForms\bin\Debug\TetrisWinForms.exe
+C:\Users\Amiepc\source\repos\TetrisWinForms\bin\Debug\TetrisWinForms.pdb
+C:\Users\Amiepc\source\repos\TetrisWinForms\obj\Debug\TetrisWinForms.csproj.AssemblyReference.cache
+C:\Users\Amiepc\source\repos\TetrisWinForms\obj\Debug\TetrisWinForms.Form1.resources
+C:\Users\Amiepc\source\repos\TetrisWinForms\obj\Debug\TetrisWinForms.Properties.Resources.resources
+C:\Users\Amiepc\source\repos\TetrisWinForms\obj\Debug\TetrisWinForms.csproj.GenerateResource.cache
+C:\Users\Amiepc\source\repos\TetrisWinForms\obj\Debug\TetrisWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Amiepc\source\repos\TetrisWinForms\obj\Debug\TetrisWinForms.exe
+C:\Users\Amiepc\source\repos\TetrisWinForms\obj\Debug\TetrisWinForms.pdb
+C:\Users\Amiepc\Desktop\game projects\TetrisWinForms\bin\Debug\TetrisWinForms.exe.config
+C:\Users\Amiepc\Desktop\game projects\TetrisWinForms\bin\Debug\TetrisWinForms.exe
+C:\Users\Amiepc\Desktop\game projects\TetrisWinForms\bin\Debug\TetrisWinForms.pdb
+C:\Users\Amiepc\Desktop\game projects\TetrisWinForms\obj\Debug\TetrisWinForms.csproj.AssemblyReference.cache
+C:\Users\Amiepc\Desktop\game projects\TetrisWinForms\obj\Debug\TetrisWinForms.Form1.resources
+C:\Users\Amiepc\Desktop\game projects\TetrisWinForms\obj\Debug\TetrisWinForms.Properties.Resources.resources
+C:\Users\Amiepc\Desktop\game projects\TetrisWinForms\obj\Debug\TetrisWinForms.csproj.GenerateResource.cache
+C:\Users\Amiepc\Desktop\game projects\TetrisWinForms\obj\Debug\TetrisWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Amiepc\Desktop\game projects\TetrisWinForms\obj\Debug\TetrisWinForms.exe
+C:\Users\Amiepc\Desktop\game projects\TetrisWinForms\obj\Debug\TetrisWinForms.pdb
+C:\Users\Amiepc\Desktop\game projects\TetrisWinForms clarisa - Nathan\bin\Debug\TetrisWinForms.exe.config
+C:\Users\Amiepc\Desktop\game projects\TetrisWinForms clarisa - Nathan\bin\Debug\TetrisWinForms.exe
+C:\Users\Amiepc\Desktop\game projects\TetrisWinForms clarisa - Nathan\bin\Debug\TetrisWinForms.pdb
+C:\Users\Amiepc\Desktop\game projects\TetrisWinForms clarisa - Nathan\obj\Debug\TetrisWinForms.csproj.AssemblyReference.cache
+C:\Users\Amiepc\Desktop\game projects\TetrisWinForms clarisa - Nathan\obj\Debug\TetrisWinForms.Form1.resources
+C:\Users\Amiepc\Desktop\game projects\TetrisWinForms clarisa - Nathan\obj\Debug\TetrisWinForms.Properties.Resources.resources
+C:\Users\Amiepc\Desktop\game projects\TetrisWinForms clarisa - Nathan\obj\Debug\TetrisWinForms.csproj.GenerateResource.cache
+C:\Users\Amiepc\Desktop\game projects\TetrisWinForms clarisa - Nathan\obj\Debug\TetrisWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Amiepc\Desktop\game projects\TetrisWinForms clarisa - Nathan\obj\Debug\TetrisWinForms.exe
+C:\Users\Amiepc\Desktop\game projects\TetrisWinForms clarisa - Nathan\obj\Debug\TetrisWinForms.pdb
